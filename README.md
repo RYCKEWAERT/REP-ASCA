@@ -1,5 +1,5 @@
 # REP-ASCA
-Analysis of Variance  Method for Multivariate data (based on ASCA)
+Reduction of repeatability error for Analysis of variance-Simultaneous Component Analysis (REP-ASCA) is an analysis of variance method for Multivariate data. This method is based on ASCA. 
 
 See methods (theory): 
 Reduction of repeatability error for Analysis of variance-Simultaneous Component Analysis (REP-ASCA): Application to NIR spectroscopy on coffee sample
