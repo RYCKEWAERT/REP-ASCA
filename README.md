@@ -3,7 +3,7 @@ Reduction of repeatability error for Analysis of variance-Simultaneous Component
 
 **References:**
 
-See methods (theory): 
+About the method: 
 
 - Reduction of repeatability error for Analysis of variance-Simultaneous Component Analysis (REP-ASCA): Application to NIR spectroscopy on coffee sample
 _Maxime Ryckewaert, Nathalie Gorretta, Fabienne Henriot, Federico Marini, Jean-Michel Roger_
